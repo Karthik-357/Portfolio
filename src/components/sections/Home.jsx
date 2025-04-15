@@ -22,7 +22,7 @@ export const Home = () => {
               <Typewriter
                 words={[
                   'Back End Developer',
-                  ' Enthusiast',
+                  'AI Enthusiast',
                   'Tech Explorer'
                 ]}
                 loop={true}
