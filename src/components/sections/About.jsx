@@ -40,7 +40,7 @@ export const About = () => {
         <div className="max-w-6xl mx-auto px-4">
           {/* Title with animated underline */}
           <div className="mb-12 text-center">
-          <h2 className="text-4xl md:text-5xl font-extrabold mb-3 text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 to-blue-400">
+          <h2 className="text-4xl md:text-5xl font-extrabold mb-3 text-transparent bg-clip-text bg-gradient-to-r from-emerald-500 to-cyan-400">
   About Me
 </h2>
 
